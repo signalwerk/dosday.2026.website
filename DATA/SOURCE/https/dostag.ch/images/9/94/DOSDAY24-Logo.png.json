@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "headers": {
+      "server": "nginx",
+      "date": "Sat, 29 Aug 2026 10:13:23 GMT",
+      "content-type": "image/png",
+      "content-length": "304434",
+      "last-modified": "Thu, 22 Jan 2026 23:34:57 GMT",
+      "connection": "keep-alive",
+      "etag": "\"6972b421-4a532\"",
+      "accept-ranges": "bytes"
+    },
+    "status": 200,
+    "uri": "https://dostag.ch/images/9/94/DOSDAY24-Logo.png",
+    "timestamp": "2026-08-29T10:13:23.365Z"
+  },
+  "hasData": true
+}

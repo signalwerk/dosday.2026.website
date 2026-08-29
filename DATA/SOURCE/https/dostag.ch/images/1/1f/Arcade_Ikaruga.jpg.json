@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "headers": {
+      "server": "nginx",
+      "date": "Sat, 29 Aug 2026 10:13:22 GMT",
+      "content-type": "image/jpeg",
+      "content-length": "104517",
+      "last-modified": "Wed, 14 Jan 2026 19:01:14 GMT",
+      "connection": "keep-alive",
+      "etag": "\"6967e7fa-19845\"",
+      "accept-ranges": "bytes"
+    },
+    "status": 200,
+    "uri": "https://dostag.ch/images/1/1f/Arcade_Ikaruga.jpg",
+    "timestamp": "2026-08-29T10:13:22.890Z"
+  },
+  "hasData": true
+}

@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "headers": {
+      "server": "nginx",
+      "date": "Sat, 29 Aug 2026 10:13:22 GMT",
+      "content-type": "image/jpeg",
+      "content-length": "120078",
+      "last-modified": "Wed, 14 Jan 2026 18:47:16 GMT",
+      "connection": "keep-alive",
+      "etag": "\"6967e4b4-1d50e\"",
+      "accept-ranges": "bytes"
+    },
+    "status": 200,
+    "uri": "https://dostag.ch/images/6/61/Arcade_Outrun2upright.jpg",
+    "timestamp": "2026-08-29T10:13:22.716Z"
+  },
+  "hasData": true
+}

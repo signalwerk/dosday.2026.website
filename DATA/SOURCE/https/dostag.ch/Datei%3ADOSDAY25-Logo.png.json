@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "headers": {
+      "server": "nginx",
+      "date": "Sat, 29 Aug 2026 10:13:22 GMT",
+      "content-type": "text/html; charset=UTF-8",
+      "content-length": "5611",
+      "connection": "keep-alive",
+      "x-content-type-options": "nosniff",
+      "content-language": "de",
+      "x-ua-compatible": "IE=Edge",
+      "link": "</Baby.gif?8c357>;rel=preload;as=image",
+      "vary": "Accept-Encoding,Cookie,User-Agent",
+      "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "cache-control": "private, must-revalidate, max-age=0",
+      "last-modified": "Thu, 22 Jan 2026 23:05:07 GMT"
+    },
+    "status": 200,
+    "uri": "https://dostag.ch/Datei:DOSDAY25-Logo.png",
+    "timestamp": "2026-08-29T10:13:22.545Z"
+  },
+  "hasData": true
+}

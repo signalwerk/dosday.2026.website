@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "headers": {
+      "server": "nginx",
+      "date": "Sat, 29 Aug 2026 10:13:22 GMT",
+      "content-type": "image/jpeg",
+      "content-length": "3010",
+      "last-modified": "Wed, 14 Jan 2026 19:01:44 GMT",
+      "connection": "keep-alive",
+      "etag": "\"6967e818-bc2\"",
+      "accept-ranges": "bytes"
+    },
+    "status": 200,
+    "uri": "https://dostag.ch/images/thumb/e/ee/Arcade_Maze.jpg/70px-Arcade_Maze.jpg",
+    "timestamp": "2026-08-29T10:13:22.903Z"
+  },
+  "hasData": true
+}

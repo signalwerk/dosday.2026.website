@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "headers": {
+      "server": "nginx",
+      "date": "Sat, 29 Aug 2026 10:13:23 GMT",
+      "content-type": "image/jpeg",
+      "content-length": "71256",
+      "last-modified": "Sun, 25 Jan 2026 18:20:30 GMT",
+      "connection": "keep-alive",
+      "etag": "\"69765eee-11658\"",
+      "accept-ranges": "bytes"
+    },
+    "status": 200,
+    "uri": "https://dostag.ch/images/thumb/5/53/Woodruff_front.jpg/473px-Woodruff_front.jpg",
+    "timestamp": "2026-08-29T10:13:23.021Z"
+  },
+  "hasData": true
+}
