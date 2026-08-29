@@ -2,9 +2,9 @@
   "metadata": {
     "headers": {
       "server": "nginx",
-      "date": "Sat, 29 Aug 2026 10:13:20 GMT",
+      "date": "Sat, 29 Aug 2026 20:28:02 GMT",
       "content-type": "text/html; charset=UTF-8",
-      "content-length": "5227",
+      "content-length": "5229",
       "connection": "keep-alive",
       "x-content-type-options": "nosniff",
       "content-language": "de",
@@ -17,7 +17,7 @@
     },
     "status": 200,
     "uri": "https://dostag.ch/Datei:Arcade_Maze.jpg",
-    "timestamp": "2026-08-29T10:13:20.196Z"
+    "timestamp": "2026-08-29T20:28:02.444Z"
   },
   "hasData": true
 }

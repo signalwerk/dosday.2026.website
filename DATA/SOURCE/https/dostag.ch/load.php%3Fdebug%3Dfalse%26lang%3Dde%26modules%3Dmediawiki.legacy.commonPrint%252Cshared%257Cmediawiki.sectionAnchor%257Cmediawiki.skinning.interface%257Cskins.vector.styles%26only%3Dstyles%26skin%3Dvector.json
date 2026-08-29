@@ -2,20 +2,20 @@
   "metadata": {
     "headers": {
       "server": "nginx",
-      "date": "Sat, 29 Aug 2026 10:13:18 GMT",
+      "date": "Sat, 29 Aug 2026 20:28:01 GMT",
       "content-type": "text/css; charset=utf-8",
       "content-length": "9215",
       "connection": "keep-alive",
       "x-content-type-options": "nosniff",
       "access-control-allow-origin": "*",
       "cache-control": "public, max-age=300, s-maxage=300",
-      "expires": "Sat, 29 Aug 2026 10:18:18 GMT",
+      "expires": "Sat, 29 Aug 2026 20:33:01 GMT",
       "etag": "W/\"1js9mlb-gzip\"",
       "vary": "Accept-Encoding,User-Agent"
     },
     "status": 200,
     "uri": "https://dostag.ch/load.php?debug=false&lang=de&modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&only=styles&skin=vector",
-    "timestamp": "2026-08-29T10:13:18.843Z"
+    "timestamp": "2026-08-29T20:28:01.424Z"
   },
   "hasData": true
 }

@@ -2,9 +2,9 @@
   "metadata": {
     "headers": {
       "server": "nginx",
-      "date": "Sat, 29 Aug 2026 10:13:21 GMT",
+      "date": "Sat, 29 Aug 2026 20:28:03 GMT",
       "content-type": "text/html; charset=UTF-8",
-      "content-length": "5136",
+      "content-length": "5131",
       "connection": "keep-alive",
       "x-content-type-options": "nosniff",
       "content-language": "de",
@@ -17,7 +17,7 @@
     },
     "status": 200,
     "uri": "https://dostag.ch/Workshop_%C2%ABPixelfont_like_it%27s_94_%E2%80%93_but_now%C2%BB",
-    "timestamp": "2026-08-29T10:13:21.542Z"
+    "timestamp": "2026-08-29T20:28:03.648Z"
   },
   "hasData": true
 }

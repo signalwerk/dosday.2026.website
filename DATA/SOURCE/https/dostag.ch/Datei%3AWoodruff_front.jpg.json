@@ -2,7 +2,7 @@
   "metadata": {
     "headers": {
       "server": "nginx",
-      "date": "Sat, 29 Aug 2026 10:13:21 GMT",
+      "date": "Sat, 29 Aug 2026 20:28:02 GMT",
       "content-type": "text/html; charset=UTF-8",
       "content-length": "5455",
       "connection": "keep-alive",
@@ -17,7 +17,7 @@
     },
     "status": 200,
     "uri": "https://dostag.ch/Datei:Woodruff_front.jpg",
-    "timestamp": "2026-08-29T10:13:21.359Z"
+    "timestamp": "2026-08-29T20:28:02.792Z"
   },
   "hasData": true
 }

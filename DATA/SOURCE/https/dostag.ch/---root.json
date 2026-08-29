@@ -2,7 +2,7 @@
   "metadata": {
     "headers": {
       "server": "nginx",
-      "date": "Sat, 29 Aug 2026 10:13:17 GMT",
+      "date": "Sat, 29 Aug 2026 20:28:00 GMT",
       "content-type": "text/html; charset=utf-8",
       "content-length": "0",
       "connection": "keep-alive",
@@ -10,13 +10,13 @@
       "vary": "Accept-Encoding,Cookie,User-Agent",
       "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
       "cache-control": "private, must-revalidate, max-age=0",
-      "last-modified": "Sat, 29 Aug 2026 10:13:17 GMT",
+      "last-modified": "Sat, 29 Aug 2026 20:28:00 GMT",
       "location": "https://dostag.ch/Hauptseite"
     },
     "status": 301,
     "uri": "https://dostag.ch/",
     "redirected": "https://dostag.ch/Hauptseite",
-    "timestamp": "2026-08-29T10:13:17.883Z"
+    "timestamp": "2026-08-29T20:28:00.592Z"
   },
   "hasData": false
 }

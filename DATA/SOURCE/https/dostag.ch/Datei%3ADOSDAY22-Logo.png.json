@@ -2,9 +2,9 @@
   "metadata": {
     "headers": {
       "server": "nginx",
-      "date": "Sat, 29 Aug 2026 10:13:21 GMT",
+      "date": "Sat, 29 Aug 2026 20:28:04 GMT",
       "content-type": "text/html; charset=UTF-8",
-      "content-length": "5519",
+      "content-length": "5520",
       "connection": "keep-alive",
       "x-content-type-options": "nosniff",
       "content-language": "de",
@@ -17,7 +17,7 @@
     },
     "status": 200,
     "uri": "https://dostag.ch/Datei:DOSDAY22-Logo.png",
-    "timestamp": "2026-08-29T10:13:21.806Z"
+    "timestamp": "2026-08-29T20:28:03.884Z"
   },
   "hasData": true
 }

@@ -2,7 +2,7 @@
   "metadata": {
     "headers": {
       "server": "nginx",
-      "date": "Sat, 29 Aug 2026 10:13:19 GMT",
+      "date": "Sat, 29 Aug 2026 20:28:01 GMT",
       "content-type": "text/html; charset=UTF-8",
       "content-length": "5313",
       "connection": "keep-alive",
@@ -17,7 +17,7 @@
     },
     "status": 200,
     "uri": "https://dostag.ch/Benutzer:Signalwerk",
-    "timestamp": "2026-08-29T10:13:19.402Z"
+    "timestamp": "2026-08-29T20:28:01.718Z"
   },
   "hasData": true
 }
